@@ -1,8 +1,5 @@
 # 🏠 FamilyHub - O Sistema de Gestão Familiar
  
-<p align="center">
-  <img src="dashboard_preview.jpg" alt="Preview do Projeto FamilyHub" width="100%">
-</p>
 
 ## 💻 Sobre o Projeto
 
